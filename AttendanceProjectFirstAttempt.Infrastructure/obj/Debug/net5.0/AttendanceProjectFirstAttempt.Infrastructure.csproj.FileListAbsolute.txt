@@ -1,0 +1,12 @@
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.deps.json
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.pdb
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.AssemblyInfo.cs
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\refint\AttendanceProjectFirstAttempt.Infrastructure.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Infrastructure.pdb
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\AttendanceProjectFirstAttempt.Infrastructure\obj\Debug\net5.0\ref\AttendanceProjectFirstAttempt.Infrastructure.dll

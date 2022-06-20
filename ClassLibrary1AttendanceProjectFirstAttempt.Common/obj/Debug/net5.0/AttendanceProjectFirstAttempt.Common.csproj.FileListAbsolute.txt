@@ -1,0 +1,12 @@
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Common.deps.json
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Common.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\bin\Debug\net5.0\AttendanceProjectFirstAttempt.Common.pdb
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.csproj.AssemblyReference.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.AssemblyInfoInputs.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.AssemblyInfo.cs
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.csproj.CoreCompileInputs.cache
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\refint\AttendanceProjectFirstAttempt.Common.dll
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\AttendanceProjectFirstAttempt.Common.pdb
+C:\Users\a_shi\source\repos\AttendanceProjectFirstAttempt\ClassLibrary1AttendanceProjectFirstAttempt.Common\obj\Debug\net5.0\ref\AttendanceProjectFirstAttempt.Common.dll

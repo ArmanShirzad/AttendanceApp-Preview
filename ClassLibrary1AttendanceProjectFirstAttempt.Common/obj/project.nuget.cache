@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pp5Qjar8uTIVgMe3u1NXv/Ys89aY5UsiCBYk/imSZi9V/qFWf/jvnRm9HWPTvLFhcPYDyRU9cRyUv75E6uAdVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a_shi\\source\\repos\\AttendanceProjectFirstAttempt\\ClassLibrary1AttendanceProjectFirstAttempt.Common\\AttendanceProjectFirstAttempt.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a_shi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.6\\microsoft.aspnetcore.cryptography.internal.6.0.6.nupkg.sha512",
+    "C:\\Users\\a_shi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.6\\microsoft.aspnetcore.cryptography.keyderivation.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

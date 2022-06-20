@@ -1,0 +1,90 @@
+﻿@using Newtonsoft.Json;
+
+
+@{
+    Layout = null;
+}
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Attendance Management</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/Home/assets/css/stylesheet.css">
+    <link rel="stylesheet" href="~/Content/Home/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/Home/assets/css/bootstrap.min.css">
+  </head>
+
+<body class="d-flex flex-column min-vh-100">
+<!-- Navbar-->
+<header class="header">
+    <nav class="navbar navbar-expand-lg fixed-top py-3">
+        <div class="container"><a href="#" class="navbar-brand text-uppercase font-weight-bold">ورود/خروج</a>
+            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+            
+            <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active"><a href="~/Home/MarkAttendance" class="nav-link text-uppercase font-weight-bold">ثبت تردد <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a href="~/Users/Index" class="nav-link text-uppercase font-weight-bold" >کارمندان</a></li>
+                    <li class="nav-item"><a href="~/Attendance/AttendanceList" class="nav-link text-uppercase font-weight-bold">لیست ترددها</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div>
+   
+        @RenderBody()
+ 
+</div>
+
+<!-- For demo purpose -->
+@*<div class="container">
+    <div class="pt-5 text-white">
+        <header class="py-5 mt-5">
+            <p class="lead mb-0">
+              <a href="https://bootstrapious.com" class="text-white">
+                    <u>Bootstrapious</u></a>
+          </p>
+        </header>
+
+    </div>
+</div>*@
+  
+
+  <footer  class="mt-auto">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p><i class="fa fa-copyright"></i> Copyright @DateTime.Now.ToString("yyyy") by Attendeance App
+          
+          
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+    <script src="~/Content/Home/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Content/Home/assets/js/jquery-3.3.1.slim.min.js"></script>
+ 
+    @await RenderSectionAsync("Scripts",required:false)
+    </script>
+</body>
+</html>
